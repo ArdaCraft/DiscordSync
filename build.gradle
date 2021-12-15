@@ -6,7 +6,7 @@ plugins {
 group = "me.dags"
 version = "3.2-SNAPSHOT"
 sourceCompatibility = 1.8
-def spongeVersion = "7.4.4"
+def spongeVersion = "7.4.0"
 def spongeChannel = "SNAPSHOT"
 
 configurations {
