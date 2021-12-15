@@ -27,7 +27,7 @@ repositories {
 
 dependencies {
     compileOnly "org.spongepowered:spongeapi:${spongeVersion}-${spongeChannel}"
-    shade ("net.dv8tion:JDA:4.2.0_253") {
+    shade ("net.dv8tion:JDA:4.2.1_253") {
         // text-only
         exclude module: "opus-java"
         // provided by sponge
